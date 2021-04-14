@@ -640,6 +640,7 @@ Die echte Zeit ist jetzt:  ${realtime}
 		["Milliseconds per day"] = "Миллисекунд в дне",
 		["Maximum Loan"] = "Максимальный кредит",
 		["Current Speed"] = "Текущая скорость",
+		["Move Mode"] = "Способ передвижения",
 		["Current Destination"] = "Текущее направление",
 		["and"] = "и",
 		["Last Activated"] = "Последнее срабатывание",
