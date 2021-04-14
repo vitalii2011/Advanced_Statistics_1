@@ -620,7 +620,7 @@ Die echte Zeit ist jetzt:  ${realtime}
 		Stops = "Остановки",
 		Loaded = "Загружено",
 		Unloaded = "Разгружено",
-		Activation = "Activation",
+		Activation = "Активность",
 		
 		["Welcome back"] = "С возвращением",
 		["Program Startup"] = "Запуск программы",
